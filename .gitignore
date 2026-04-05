@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local Flask / SQLite
+Backend/instance/
+*.db
+
+# OECD prices extract is ~940MB — GitHub file limit is 100MB
+Backend/Data/OECD.SDD.TPS*
