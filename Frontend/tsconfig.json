@@ -1,0 +1,5 @@
+{
+  // Root TS project: no files here; delegates to app (src) and node (Vite config).
+  "files": [],
+  "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }]
+}
