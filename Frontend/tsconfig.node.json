@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    // Node-side tooling (Vite config runs in Node).
+    "target": "ES2022",
+    "lib": ["ES2023"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler"
+  },
+  "include": ["vite.config.ts"]
+}

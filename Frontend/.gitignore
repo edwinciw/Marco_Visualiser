@@ -1,0 +1,5 @@
+# Installed packages and build output (regenerate with npm install / npm run build).
+node_modules
+dist
+*.local
+.env

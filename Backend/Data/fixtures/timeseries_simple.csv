@@ -1,0 +1,19 @@
+iso3,country_name,metric_code,metric_name,unit,frequency,period,value
+USA,United States,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2019,62800.5
+USA,United States,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2020,63500.0
+USA,United States,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2021,65210.3
+USA,United States,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2022,65500.0
+GBR,United Kingdom,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2019,46350.2
+GBR,United Kingdom,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2020,45890.0
+GBR,United Kingdom,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2021,47200.8
+GBR,United Kingdom,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2022,47600.0
+DEU,Germany,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2021,51200.0
+DEU,Germany,gdp_pc,GDP per capita (PPP USD),USD per person,annual,2022,51800.0
+DEU,Germany,gdp_pc,GDP per capita (PPP USD),USD per person,quarterly,2023-Q1,51950.0
+DEU,Germany,gdp_pc,GDP per capita (PPP USD),USD per person,quarterly,2023-Q2,52100.0
+USA,United States,cpi_hicp,HICP all items index,index 2015=100,index,monthly,2023-01,112.4
+USA,United States,cpi_hicp,HICP all items index,index 2015=100,index,monthly,2023-02,112.9
+USA,United States,cpi_hicp,HICP all items index,index 2015=100,index,monthly,2023-03,113.2
+GBR,United Kingdom,cpi_hicp,HICP all items index,index 2015=100,index,monthly,2023-01,118.1
+GBR,United Kingdom,cpi_hicp,HICP all items index,index 2015=100,index,monthly,2023-02,118.6
+GBR,United Kingdom,cpi_hicp,HICP all items index,index 2015=100,index,monthly,2023-03,119.0
